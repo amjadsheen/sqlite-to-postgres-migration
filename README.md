@@ -1,7 +1,7 @@
 # SQLite to PostgreSQL Migration
 
 This guide will help you migrate your SQLite database to PostgreSQL.
-# SQLite to PostgreSQL Migration
+
 
 Lightweight Python script to copy data from a local SQLite file into a PostgreSQL database.
 
