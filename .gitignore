@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pyenv
+.python-version
+
+# Virtualenv
+*.env
+*.venv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbs
+._*
+
+# Node (for Strapi related files)
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# SQLite
+*.db
+*.sqlite
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Misc
+*.pem
+*.key
+
+# Ignore compiled C extensions
+*.so
